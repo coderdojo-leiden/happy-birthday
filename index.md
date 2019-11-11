@@ -6,6 +6,8 @@ In dit project gaan we het bekende verjaardagsliedje *Happy birthday* programmer
 Meer informatie over **Sonic Pi** vind je op de [Sonic Pi-pagina](https://coderdojo-leiden.github.io/sonic-pi/) van CoderDojo Leiden. Hier vind je o.a. waar je **Sonic Pi** kunt downloaden en een flink aantal projecten om met **Sonic Pi** aan de slag te gaan.  
 Zorg dat je een installatie van **Sonic Pi** op je laptop hebt voordat je verdergaat met dit project.
 
+![Happy birthday!](images/happy-birthday.jpeg)
+
 ## Inhoud
 
 1. De muziek van *Happy birthday*
