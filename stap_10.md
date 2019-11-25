@@ -1,6 +1,6 @@
 # Extra uitdaging: Lang zullen we leven
 
-De volgende 5 tabellen bevatten de noten voor de regels van *Lang zullen we leven*. Het interessante hieraan is dat er bijna altijd 2 noten tegelijk gespeeld moeten worden. Dan zou je dus gebruik 2 `play` commando’s direct na elkaar kunnen gebruiken en dan pas een `sleep` commando. Het begin van je melodie ziet er dan bijvoorbeeld als volgt uit:  
+De volgende 5 tabellen bevatten de noten voor de regels van *Lang zullen we leven*. Het interessante hieraan is dat er bijna altijd 2 noten tegelijk gespeeld moeten worden. Dan zou je dus 2 `play` commando’s direct na elkaar kunnen gebruiken en dan pas een `sleep` commando. Het begin van je melodie ziet er dan bijvoorbeeld als volgt uit:  
 `play :f4`  
 `play :c4`  
 `sleep 1`
