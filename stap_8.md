@@ -33,3 +33,5 @@ Als je dit allemaal combineert, dan ziet de code voor je beat er ongeveer zo uit
 Uiteraard kan het zijn dat je een andere sample gebruikt, of je beat sneller of langzamer gemaakt hebt (en dan heb je ook een ander getal dan 45 gebruikt).
 
 [De laatste stap >>](stap_9.md)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dit werk valt onder een <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl">Creative Commons Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal-licentie</a>.
